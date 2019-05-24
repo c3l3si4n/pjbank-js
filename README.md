@@ -8,7 +8,7 @@ you will have to install their API
 npm install @pjbank/pjbank-js-sdk
 ```
 
-##Example Config
+## Example Config
 ```javascript
 const PJBankSDK = require('@pjbank/pjbank-sdk-js');
 const credencial = "d3418668b85cea70aa28965eafaf927cd34d004c";
