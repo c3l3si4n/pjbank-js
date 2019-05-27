@@ -1,1 +1,1 @@
-require('./pjbank');
+require('./pjbank_http');
